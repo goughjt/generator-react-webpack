@@ -15,3 +15,5 @@ npm-debug.log
 .idea/
 test/temp-test
 coverage/
+.gitignore
+.projectile
